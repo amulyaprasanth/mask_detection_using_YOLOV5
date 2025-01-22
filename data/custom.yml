@@ -1,0 +1,11 @@
+# Custom YOLOv5 configuration file for Mask Detection
+
+# Path to the training and validation datasets
+train: ./data/train/images # Path to training images
+val: ./data/val/images # Path to validation images
+
+# Number of classes
+nc: 2 # Number of classes in your dataset
+
+# Class names
+names: ["mask", "no mask"] # List of class names
