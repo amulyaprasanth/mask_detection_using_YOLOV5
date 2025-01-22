@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements the YOLOv5 (You Only Look Once version 5) model for real-time object detection. The notebook guides users through the entire process, from setting up the environment to training the model and testing it on various inputs. YOLOv5 is renowned for its speed and accuracy, making it a popular choice for applications in computer vision.
+This project implements the YOLOv5 (You Only Look Once version 5) model for real-time object detection. The notebook guides users through the entire process, from setting up the environment to training the model and testing it on various inputs. YOLOv5 is renowned for its speed and accuracy, making it a popular choice for applications in computer vision. This project was completed as a major project during my Verzeo AI internship program.
 
 ## Process Description
 
