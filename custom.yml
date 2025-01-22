@@ -1,0 +1,5 @@
+train: c:/Users/amuly/OneDrive/Desktop/mask_detection_using_YOLOV5/data/train/images
+val: c:/Users/amuly/OneDrive/Desktop/mask_detection_using_YOLOV5/data/val/images
+
+nc: 2  # number of classes
+names: ['mask', 'no_mask']  # class names
